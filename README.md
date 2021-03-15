@@ -1,0 +1,1 @@
+# Bach.DotNet.DRY.Model
